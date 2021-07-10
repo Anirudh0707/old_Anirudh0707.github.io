@@ -1,0 +1,86 @@
+# General Settings
+name: Anirudh B H
+job_title: Signal Processing
+email: yani.bh@gmail.com
+description: I recently graduated from the National Institute of Technology Karnataka with a B.Tech degree in Electronics and Communication Engineering
+avatar: https://Anirudh0707.github.io/assets/images/avatar.png
+favicon: /favicon.ico # TODO
+twitter_handler:
+analytics_code: # UA-XXXXXXX-2
+disqus: # your_disqus_site
+
+# Custom added by me
+home_sidebar: Home # String to show as "Home" at the sidebar. It was hardcoded.
+
+# Social Accounts
+social_networks:
+-  { name: facebook, url: '' }
+-  { name: twitter, url: '' }
+-  { name: instagram, url: '' }
+-  { name: googlescholar, url: '' }
+-  { name: linkedin, url: 'https://in.linkedin.com/in/anirudh-b-h-30a453149' }
+-  { name: skype, url: '' }
+-  { name: github, url: 'http://www.github.com/Anirudh0707' }
+-  { name: codepen, url: '' }
+-  { name: stack-overflow, url: '' }
+-  { name: dribbble, url: '' }
+-  { name: behance, url: '' }
+-  { name: pinterest, url: '' }
+-  { name: tumblr, url: '' }
+-  { name: youtube, url: '' }
+-  { name: vimeo, url: '' }
+-  { name: vine, url: '' }
+-  { name: 500px, url: '' }
+-  { name: flickr, url: '' }
+-  { name: spotify, url: '' }
+-  { name: steam, url: '' }
+-  { name: wordpress, url: '' }
+-  { name: xing, url: '' }
+-  { name: bitcoin, url: '' }
+-  { name: pocket, url: '' }
+-  { name: applemusic, url: '' }
+
+# Modules Settings
+show_categories: 1
+show_tags: 1
+show_email: 1
+show_rss: 0
+show_comments: 0
+show_menu: 1
+fixed_sidebar: 1
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: "false"
+
+# Serving
+url: "https://Anirudh0707.github.io"
+baseurl: ""
+
+# Includes
+include: ["_pages"]
+
+# Outputting
+permalink: /:categories/:title.html
+category_dir: categories
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Conversion
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+# Assets Settings
+sass:
+  sass_dir: assets/partials
+  style: compressed
+
+plugins:
+ - jekyll-sitemap
