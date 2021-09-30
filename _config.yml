@@ -2,7 +2,7 @@
 name: Anirudh B H
 job_title: Signal Processing
 email: yani.bh@gmail.com
-description: I recently graduated from the National Institute of Technology Karnataka with a B.Tech degree in Electronics and Communication Engineering
+description: "I am a Master\'s student at the Electrical and Computer Engineering Department at the University of California, Los Angeles"
 avatar: https://Anirudh0707.github.io/assets/images/avatar.png
 favicon: /favicon.ico # TODO
 twitter_handler:
@@ -18,7 +18,7 @@ social_networks:
 -  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: googlescholar, url: '' }
--  { name: linkedin, url: 'https://in.linkedin.com/in/anirudh-b-h-30a453149' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/anirudh-bindiganavale-harish-30a453149/' }
 -  { name: skype, url: '' }
 -  { name: github, url: 'http://www.github.com/Anirudh0707' }
 -  { name: codepen, url: '' }
