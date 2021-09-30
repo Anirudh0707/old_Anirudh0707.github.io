@@ -5,6 +5,12 @@ permalink: "/experience/"
 order: 2
 ---
 
+### Microsoft Research, Bangalore, India
+- Position   : Research Intern<br/>
+- Tenure     : September 2020 to July 2021<br/>
+- Project    : EdgeML - Audio Processing
+- Supervisor : Dr. Harsha Vardhan Simhadri and Dr. Prateek Jain
+
 ### Indian Institute of Science, Bangalore, India
 - Position   : Undergraduate Thesis Research Intern<br/>
 - Tenure     : August 2019 to December 2019<br/>
